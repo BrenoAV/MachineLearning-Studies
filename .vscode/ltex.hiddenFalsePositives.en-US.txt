@@ -1,0 +1,1 @@
+{"rule":"IN_A_X_MANNER","sentence":"^\\QYou can see the jupyter notebook with the code in a straight way.\\E$"}
