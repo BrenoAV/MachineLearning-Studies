@@ -8,6 +8,10 @@ This is a repository to store my studies in Machine Learning in several subjects
 
 1. [Decision Tree](./Classification-Algorithms/Ensemble/DecisionTree.ipynb) 
 
+## Regression
+
+1. [k-Nearest Neighbors](./Regression-Algorithms/kNN/kNN-Abalone.ipynb)
+
 ## Metrics
 
 1. [Precision Recall Curve](./Metrics/Classification/PR-Curve.ipynb)
