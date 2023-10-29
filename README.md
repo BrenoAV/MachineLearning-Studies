@@ -7,6 +7,7 @@ This is a repository to store my studies in Machine Learning in several subjects
 ## Classification
 
 1. [Decision Tree](./Classification-Algorithms/Ensemble/DecisionTree.ipynb) 
+2. [k-Nearest Neighbors](./Classification-Algorithms/kNN/kNN-Iris.ipynb)
 
 ## Regression
 
@@ -25,3 +26,11 @@ This is a repository to store my studies in Machine Learning in several subjects
 ## Others
 
 1. [Kullback Leibler Divergence](./Others/kullback-leibler-divergence/)
+
+---
+
+<p align='center'>
+<strong>MIT License</strong><br>
+This project is licensed under the MIT License - see the LICENSE file for details.<br><br>
+&copy; 2023 BrenoAV
+</p>
