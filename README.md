@@ -22,6 +22,7 @@ This is a repository to store my studies in Machine Learning in several subjects
 
 1. [Features Selection](./Preprocessing/Features-Selection/)
 2. [Outliers](./Preprocessing/Outliers/)
+3. [Categorical Encoding](./Preprocessing/Categorical-Encoding/)
 
 ## Others
 
